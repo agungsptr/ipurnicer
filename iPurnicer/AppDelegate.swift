@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  iPurnicer
-//
-//  Created by Agung Saputra on 25/05/23.
-//
-
 import UIKit
 import SwiftUI
 

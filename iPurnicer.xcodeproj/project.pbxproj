@@ -8,19 +8,50 @@
 
 /* Begin PBXBuildFile section */
 		183EE8B62A1FB35D0060B13C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183EE8B52A1FB35D0060B13C /* AppDelegate.swift */; };
-		183EE8B82A1FB35D0060B13C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183EE8B72A1FB35D0060B13C /* ContentView.swift */; };
-		183EE8BA2A1FB35D0060B13C /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 183EE8B92A1FB35D0060B13C /* Experience.rcproject */; };
 		183EE8BC2A1FB35E0060B13C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8BB2A1FB35E0060B13C /* Assets.xcassets */; };
 		183EE8BF2A1FB35E0060B13C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8BE2A1FB35E0060B13C /* Preview Assets.xcassets */; };
+		183EE8D82A1FB37D0060B13C /* stool_flower_pot.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8C62A1FB37C0060B13C /* stool_flower_pot.usdz */; };
+		183EE8D92A1FB37D0060B13C /* medieval_drawer.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8C72A1FB37C0060B13C /* medieval_drawer.usdz */; };
+		183EE8DA2A1FB37D0060B13C /* work_desk.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8C82A1FB37C0060B13C /* work_desk.usdz */; };
+		183EE8DB2A1FB37D0060B13C /* chair.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8C92A1FB37C0060B13C /* chair.usdz */; };
+		183EE8DC2A1FB37D0060B13C /* desk_lamp.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8CA2A1FB37C0060B13C /* desk_lamp.usdz */; };
+		183EE8DD2A1FB37D0060B13C /* bed.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8CB2A1FB37C0060B13C /* bed.usdz */; };
+		183EE8DE2A1FB37D0060B13C /* plant_in_vase.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8CC2A1FB37C0060B13C /* plant_in_vase.usdz */; };
+		183EE8DF2A1FB37D0060B13C /* soda_dispenser.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8CD2A1FB37C0060B13C /* soda_dispenser.usdz */; };
+		183EE8E02A1FB37D0060B13C /* plant_rhyzom.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8CE2A1FB37C0060B13C /* plant_rhyzom.usdz */; };
+		183EE8E12A1FB37D0060B13C /* floor_sign.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8CF2A1FB37C0060B13C /* floor_sign.usdz */; };
+		183EE8E22A1FB37D0060B13C /* table_set.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8D02A1FB37C0060B13C /* table_set.usdz */; };
+		183EE8E32A1FB37D0060B13C /* l_desk.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8D12A1FB37C0060B13C /* l_desk.usdz */; };
+		183EE8E42A1FB37D0060B13C /* coffee_machine.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8D22A1FB37C0060B13C /* coffee_machine.usdz */; };
+		183EE8E52A1FB37D0060B13C /* bunk_bed.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 183EE8D32A1FB37C0060B13C /* bunk_bed.usdz */; };
+		183EE8E62A1FB37D0060B13C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183EE8D42A1FB37C0060B13C /* ContentView.swift */; };
+		183EE8E72A1FB37D0060B13C /* FocusARView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183EE8D52A1FB37C0060B13C /* FocusARView.swift */; };
+		183EE8E82A1FB37D0060B13C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183EE8D62A1FB37D0060B13C /* Model.swift */; };
+		183EE8EC2A1FB3C40060B13C /* FocusEntity in Frameworks */ = {isa = PBXBuildFile; productRef = 183EE8EB2A1FB3C40060B13C /* FocusEntity */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		183EE8B22A1FB35D0060B13C /* iPurnicer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPurnicer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		183EE8B52A1FB35D0060B13C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		183EE8B72A1FB35D0060B13C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		183EE8B92A1FB35D0060B13C /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		183EE8BB2A1FB35E0060B13C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		183EE8BE2A1FB35E0060B13C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		183EE8C62A1FB37C0060B13C /* stool_flower_pot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = stool_flower_pot.usdz; sourceTree = "<group>"; };
+		183EE8C72A1FB37C0060B13C /* medieval_drawer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = medieval_drawer.usdz; sourceTree = "<group>"; };
+		183EE8C82A1FB37C0060B13C /* work_desk.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = work_desk.usdz; sourceTree = "<group>"; };
+		183EE8C92A1FB37C0060B13C /* chair.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = chair.usdz; sourceTree = "<group>"; };
+		183EE8CA2A1FB37C0060B13C /* desk_lamp.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = desk_lamp.usdz; sourceTree = "<group>"; };
+		183EE8CB2A1FB37C0060B13C /* bed.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = bed.usdz; sourceTree = "<group>"; };
+		183EE8CC2A1FB37C0060B13C /* plant_in_vase.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = plant_in_vase.usdz; sourceTree = "<group>"; };
+		183EE8CD2A1FB37C0060B13C /* soda_dispenser.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = soda_dispenser.usdz; sourceTree = "<group>"; };
+		183EE8CE2A1FB37C0060B13C /* plant_rhyzom.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = plant_rhyzom.usdz; sourceTree = "<group>"; };
+		183EE8CF2A1FB37C0060B13C /* floor_sign.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = floor_sign.usdz; sourceTree = "<group>"; };
+		183EE8D02A1FB37C0060B13C /* table_set.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = table_set.usdz; sourceTree = "<group>"; };
+		183EE8D12A1FB37C0060B13C /* l_desk.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = l_desk.usdz; sourceTree = "<group>"; };
+		183EE8D22A1FB37C0060B13C /* coffee_machine.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = coffee_machine.usdz; sourceTree = "<group>"; };
+		183EE8D32A1FB37C0060B13C /* bunk_bed.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = bunk_bed.usdz; sourceTree = "<group>"; };
+		183EE8D42A1FB37C0060B13C /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = ../../LearnAR/LearnAR/ContentView.swift; sourceTree = "<group>"; };
+		183EE8D52A1FB37C0060B13C /* FocusARView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FocusARView.swift; sourceTree = "<group>"; };
+		183EE8D62A1FB37D0060B13C /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -28,6 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				183EE8EC2A1FB3C40060B13C /* FocusEntity in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -54,9 +86,11 @@
 			isa = PBXGroup;
 			children = (
 				183EE8B52A1FB35D0060B13C /* AppDelegate.swift */,
-				183EE8B72A1FB35D0060B13C /* ContentView.swift */,
-				183EE8B92A1FB35D0060B13C /* Experience.rcproject */,
+				183EE8D42A1FB37C0060B13C /* ContentView.swift */,
+				183EE8D52A1FB37C0060B13C /* FocusARView.swift */,
+				183EE8D62A1FB37D0060B13C /* Model.swift */,
 				183EE8BB2A1FB35E0060B13C /* Assets.xcassets */,
+				183EE8C52A1FB37C0060B13C /* ArModels */,
 				183EE8BD2A1FB35E0060B13C /* Preview Content */,
 			);
 			path = iPurnicer;
@@ -68,6 +102,27 @@
 				183EE8BE2A1FB35E0060B13C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		183EE8C52A1FB37C0060B13C /* ArModels */ = {
+			isa = PBXGroup;
+			children = (
+				183EE8C62A1FB37C0060B13C /* stool_flower_pot.usdz */,
+				183EE8C72A1FB37C0060B13C /* medieval_drawer.usdz */,
+				183EE8C82A1FB37C0060B13C /* work_desk.usdz */,
+				183EE8C92A1FB37C0060B13C /* chair.usdz */,
+				183EE8CA2A1FB37C0060B13C /* desk_lamp.usdz */,
+				183EE8CB2A1FB37C0060B13C /* bed.usdz */,
+				183EE8CC2A1FB37C0060B13C /* plant_in_vase.usdz */,
+				183EE8CD2A1FB37C0060B13C /* soda_dispenser.usdz */,
+				183EE8CE2A1FB37C0060B13C /* plant_rhyzom.usdz */,
+				183EE8CF2A1FB37C0060B13C /* floor_sign.usdz */,
+				183EE8D02A1FB37C0060B13C /* table_set.usdz */,
+				183EE8D12A1FB37C0060B13C /* l_desk.usdz */,
+				183EE8D22A1FB37C0060B13C /* coffee_machine.usdz */,
+				183EE8D32A1FB37C0060B13C /* bunk_bed.usdz */,
+			);
+			path = ArModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -86,6 +141,9 @@
 			dependencies = (
 			);
 			name = iPurnicer;
+			packageProductDependencies = (
+				183EE8EB2A1FB3C40060B13C /* FocusEntity */,
+			);
 			productName = iPurnicer;
 			productReference = 183EE8B22A1FB35D0060B13C /* iPurnicer.app */;
 			productType = "com.apple.product-type.application";
@@ -114,6 +172,9 @@
 				Base,
 			);
 			mainGroup = 183EE8A92A1FB35D0060B13C;
+			packageReferences = (
+				183EE8EA2A1FB3C40060B13C /* XCRemoteSwiftPackageReference "FocusEntity" */,
+			);
 			productRefGroup = 183EE8B32A1FB35D0060B13C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -129,7 +190,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				183EE8BF2A1FB35E0060B13C /* Preview Assets.xcassets in Resources */,
+				183EE8DE2A1FB37D0060B13C /* plant_in_vase.usdz in Resources */,
+				183EE8DC2A1FB37D0060B13C /* desk_lamp.usdz in Resources */,
+				183EE8E32A1FB37D0060B13C /* l_desk.usdz in Resources */,
+				183EE8DB2A1FB37D0060B13C /* chair.usdz in Resources */,
+				183EE8E42A1FB37D0060B13C /* coffee_machine.usdz in Resources */,
+				183EE8DF2A1FB37D0060B13C /* soda_dispenser.usdz in Resources */,
+				183EE8DA2A1FB37D0060B13C /* work_desk.usdz in Resources */,
+				183EE8D82A1FB37D0060B13C /* stool_flower_pot.usdz in Resources */,
+				183EE8E02A1FB37D0060B13C /* plant_rhyzom.usdz in Resources */,
 				183EE8BC2A1FB35E0060B13C /* Assets.xcassets in Resources */,
+				183EE8E52A1FB37D0060B13C /* bunk_bed.usdz in Resources */,
+				183EE8E12A1FB37D0060B13C /* floor_sign.usdz in Resources */,
+				183EE8E22A1FB37D0060B13C /* table_set.usdz in Resources */,
+				183EE8D92A1FB37D0060B13C /* medieval_drawer.usdz in Resources */,
+				183EE8DD2A1FB37D0060B13C /* bed.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,9 +215,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				183EE8B82A1FB35D0060B13C /* ContentView.swift in Sources */,
+				183EE8E82A1FB37D0060B13C /* Model.swift in Sources */,
 				183EE8B62A1FB35D0060B13C /* AppDelegate.swift in Sources */,
-				183EE8BA2A1FB35D0060B13C /* Experience.rcproject in Sources */,
+				183EE8E72A1FB37D0060B13C /* FocusARView.swift in Sources */,
+				183EE8E62A1FB37D0060B13C /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,6 +423,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		183EE8EA2A1FB3C40060B13C /* XCRemoteSwiftPackageReference "FocusEntity" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/maxxfrazer/FocusEntity";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		183EE8EB2A1FB3C40060B13C /* FocusEntity */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 183EE8EA2A1FB3C40060B13C /* XCRemoteSwiftPackageReference "FocusEntity" */;
+			productName = FocusEntity;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 183EE8AA2A1FB35D0060B13C /* Project object */;
 }
